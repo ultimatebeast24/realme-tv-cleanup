@@ -1,0 +1,9 @@
+# Temple T.V. - Realme/Changhong AI PONT, Android TV 11 - batch 1
+tv.anoki.acr.controller                 # ACR, identifies what is on screen
+com.cltv.fast                           # FAST ad channels
+com.homwee.aipont                       # AI PONT brand portal
+android.autoinstalls.config.homwee      # partner-app auto-installs
+com.homwee.store                        # Changhong app store
+com.homwee.help
+com.homwee.howtocast
+com.google.android.play.games

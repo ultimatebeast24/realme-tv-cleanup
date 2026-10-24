@@ -1,0 +1,5 @@
+# Temple T.V. - batch 2 (only after batch 1 is verified)
+com.google.android.katniss              # Assistant, mic button stops working (it already doesn't)
+com.homwee.mmp.screenshare              # wireless casting, you use HDMI
+com.homwee.multiscreenshare
+com.google.android.backdrop             # ambient screensaver
